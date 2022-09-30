@@ -1,0 +1,19 @@
+{
+  "name": "szia-uram-apicache-erdekel",
+  "version": "0.0.1",
+  "description": "Just a simple API cache with a hint of friendlyness.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geribek/szia-uram-apicache-erdekel.git"
+  },
+  "author": "Gergely Bekesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geribek/szia-uram-apicache-erdekel/issues"
+  },
+  "homepage": "https://github.com/geribek/szia-uram-apicache-erdekel#readme"
+}
