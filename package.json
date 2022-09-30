@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Just a simple API cache with a hint of friendlyness.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/geribek/szia-uram-apicache-erdekel/issues"
   },
-  "homepage": "https://github.com/geribek/szia-uram-apicache-erdekel#readme"
+  "homepage": "https://github.com/geribek/szia-uram-apicache-erdekel#readme",
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
 }
